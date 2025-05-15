@@ -53,8 +53,3 @@ To run this project, you need the following installed:
 ### Install with pip:
 ```bash
 pip install tensorflow numpy matplotlib
-
-Install the required libraries.
-3. Run the model:
-
-python image_classifier.py
